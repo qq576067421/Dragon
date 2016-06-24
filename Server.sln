@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dragon.Cell", "Server\Dragon.Cell\Dragon.Cell.csproj", "{B31DF3A6-13D7-4D54-B136-1B7917AA4CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dragon.Common", "Common\Dragon.Common\Dragon.Common.csproj", "{127B3EFE-A8B6-4011-B15F-3AAF4D5DF382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B31DF3A6-13D7-4D54-B136-1B7917AA4CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31DF3A6-13D7-4D54-B136-1B7917AA4CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31DF3A6-13D7-4D54-B136-1B7917AA4CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31DF3A6-13D7-4D54-B136-1B7917AA4CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127B3EFE-A8B6-4011-B15F-3AAF4D5DF382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127B3EFE-A8B6-4011-B15F-3AAF4D5DF382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127B3EFE-A8B6-4011-B15F-3AAF4D5DF382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127B3EFE-A8B6-4011-B15F-3AAF4D5DF382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
